@@ -1,0 +1,14 @@
+canvas{
+    animation-name:beard;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes beard{
+    from{
+        box-shadow: 1px 1px 30px rgb(0, 132, 240);
+    }
+    to{box-shadow: 1px 1px 30px rgb(190, 0, 243);}
+  
+
+}
